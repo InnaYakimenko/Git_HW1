@@ -1,0 +1,20 @@
+<skills>
+	<title>
+		Что будет изучено на курсе
+	</title>
+	<skill1>
+		<field name="program">GitBush</field>
+		<field name="comands">cp, mv, touch, cat, grep</field>
+	</skill1>
+	<skill2>
+		JSON, XML
+	</skill2>
+	<skill3>
+		<field name="program">DevTool</field>
+		<field name="browser">Google Chrome, FireFox</field>
+	</skill3>
+	<skill4>
+		Sniffing Mobile Traffic: Charles, Fiddler
+	</skill4>
+</skills>
+
