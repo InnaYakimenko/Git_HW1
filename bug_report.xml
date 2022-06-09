@@ -1,1 +1,12 @@
-
+<newbug>
+  <ID>YBUG-42</ID>
+  <Summary>Клик по слову «Метро» в логотипе ведёт на главную страницу Яндекса</Summary>
+  <STR>
+    <step1>Открыть https://qa-metro.stand-1.praktikum-services.ru/moscow</step1>
+    <step2>Кликнуть по слову «Метро» в логотипе Яндекс Метро</step2>
+  </STR>
+  <actualresult>открывается главная страница Яндекса</actualresult>
+  <expectedresult>открывается страница Яндекс Метро</expectedresult>
+  <environment>Яндекс.Браузер</environment>
+  <priority>middle</priority>
+</newbug>
