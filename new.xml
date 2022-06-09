@@ -1,0 +1,7 @@
+<wai>
+	<field name="first name">Инна</field>
+	<field name="last name">Якименко</field>
+	<field name="age">34</field>
+	<field name="pets">1 cat</field>
+	<field name="salary">400</field>
+</wai>
